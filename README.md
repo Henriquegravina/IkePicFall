@@ -4,6 +4,8 @@
 
 Baseado na ideia original do **PicFall** de **PY4ZBZ**, implementado em Python por **Henrique B. Gravina - PU3IKE** utilizando **Claude AI** (Anthropic).
 
+![IkePicFall Screenshot](ScreenShot1.png)
+
 ## Descricao
 
 IkePicFall permite transformar uma imagem qualquer (mas sem muitos detalhes!) em um arquivo de audio no formato WAV (mono, 16 bits, 11025 am/s) que, ao ser reproduzido, permite visualizar esta imagem em um espectrograma deslizante vertical (waterfall), ou em um espectrograma estatico como os famosos "40 / 20m Spectrometer" do Edson PU1JTE. Para estes, usar a opcao "Inverted" em "waterfall vertical time scale".
