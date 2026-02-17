@@ -8,7 +8,7 @@ Baseado na ideia original do **PicFall** de **PY4ZBZ**, implementado em Python p
 
 ## Descricao
 
-IkePicFall permite transformar uma imagem qualquer (mas sem muitos detalhes!) em um arquivo de audio no formato WAV (mono, 16 bits, 11025 am/s) que, ao ser reproduzido, permite visualizar esta imagem em um espectrograma deslizante vertical (waterfall), ou em um espectrograma estatico como os famosos "40 / 20m Spectrometer" do Edson PU1JTE. Para estes, usar a opcao "Inverted" em "waterfall vertical time scale".
+IkePicFall permite transformar uma imagem qualquer (mas sem muitos detalhes!) em um arquivo de audio no formato WAV (mono, 16 bits, 11025 am/s) que, ao ser reproduzido, permite visualizar esta imagem em um espectrograma deslizante vertical (waterfall), ou em um espectrograma estatico como os famosos "40 / 20m Spectrometer" do Edson PY2SRD (ex. PU1JTE) . Para estes, usar a opcao "Inverted" em "waterfall vertical time scale".
 
 O sinal de audio gerado pelo IkePicFall pode ser transladado para RF por meio de um transmissor USB, sem alterar seu conteudo espectral.
 
